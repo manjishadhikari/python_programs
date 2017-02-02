@@ -1,5 +1,5 @@
 import random
-
+print("      ")
   
 print ("==Rock Paper Scissor ==")
 while True:
